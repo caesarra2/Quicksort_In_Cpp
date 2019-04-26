@@ -3,7 +3,7 @@
 #include <chrono>
 
 template<std::size_t T>
-inline void SwapElement(std::array<int, T>& arr, int a, int b) // Inline fuction to swap an array element with another
+void SwapElement(std::array<int, T>& arr, int a, int b) // Fuction to swap an array element with another
 {
 	int temp = arr.at(a);
 	arr.at(a) = arr.at(b);
