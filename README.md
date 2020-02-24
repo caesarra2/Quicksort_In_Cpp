@@ -1,5 +1,5 @@
 ## Quicksort in C++
-
+*Note: This code is created for algorithm efficiency testing.*
 
 **Output Example:**
 
